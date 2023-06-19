@@ -1,5 +1,5 @@
-<h1 style="text-decoration:underline;">Hello there 👋</h1>
-#### I'm Yonathan Lebovits - Junior Software Developer 
+Hello there 👋
+**I'm Yonathan Lebovits - Junior Software Developer**
 
 - 👨‍🎓 I'm a Computer Science student 
 - 🤖 I'm currently working on some top secret (not really) projects 
