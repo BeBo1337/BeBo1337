@@ -1,4 +1,4 @@
-Hello there 👋
+<h1>Hello there 👋</h1>
 **I'm Yonathan Lebovits - Junior Software Developer**
 
 - 👨‍🎓 I'm a Computer Science student 
