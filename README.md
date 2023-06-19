@@ -1,5 +1,5 @@
 <h1>Hello there 👋</h1>
-**I'm Yonathan Lebovits - Junior Software Developer**
+<h2>I'm Yonathan Lebovits - Junior Software Developer</h2>
 
 - 👨‍🎓 I'm a Computer Science student 
 - 🤖 I'm currently working on some top secret (not really) projects 
