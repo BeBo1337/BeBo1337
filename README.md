@@ -1,6 +1,6 @@
 # Hello there 👋
 
-#### I'm Yonathan Lebovits - Junior Software Developer 🐧
+#### I'm Yonathan Lebovits - Aspiring DevOps Engineer 🐧
 
 - 👨‍🎓 I'm a Computer Science student 
 - 🤖 I'm currently working on some top secret (not really) projects 
